@@ -32,10 +32,6 @@ To run tests, use the following command:
 mvn test
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you notice any problems or would like to suggest changes.
-
 ## Feedback
 
 - Was it easy to complete the task using AI? Definitely, it was so much easier to complete the task using AI. I saved a lot of time in writing code.
